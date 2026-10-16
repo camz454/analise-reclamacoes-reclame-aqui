@@ -1,16 +1,12 @@
-# analise-reclamacoes-reclame-aqui
-Projeto acadêmico de análise de 450 reclamações da Contabilizei no Reclame Aqui, utilizando Python e Google Colab. Inclui processamento de dados, análise de sentimentos, agrupamento de reclamações com Machine Learning e visualizações gráficas para identificar padrões de insatisfação e oportunidades de melhoria nos serviços.
-
-
 # Análise de Reclamações com Python: Uma Visão sobre a Contabilizei no Reclame Aqui
 
 Projeto acadêmico desenvolvido na disciplina **EAC0582 – Tópicos de Tecnologia nos Negócios**, da **FEA-USP**, no primeiro semestre de 2025.
 
 ## Sobre o projeto
 
-Este projeto analisa reclamações relacionadas à **Contabilizei**, publicadas na plataforma **Reclame Aqui**, com o objetivo de explorar padrões de insatisfação, a distribuição dos status das reclamações e os assuntos mais recorrentes. A análise combina visualizações, processamento de linguagem natural (NLP) e técnicas de aprendizado de máquina em **Python**, utilizando o **Google Colab**.
+Este projeto acadêmico analisa **450 reclamações relacionadas à Contabilizei**, publicadas na plataforma **Reclame Aqui**, com o objetivo de identificar padrões de insatisfação, avaliar a distribuição dos status das reclamações e investigar os problemas mais recorrentes.
 
-O conjunto de dados utilizado no trabalho possui **450 reclamações**. A coleta foi realizada com o **Instant Data Scraper** e os dados foram organizados em uma planilha Excel para análise.
+A coleta dos dados foi realizada com o **Instant Data Scraper**, seguida da organização das informações em Excel e do processamento em **Python, utilizando o Google Colab**. A análise combina técnicas de **Processamento de Linguagem Natural (NLP), Machine Learning e análise de sentimentos**, além da geração de gráficos e tabelas analíticas para visualizar os resultados e identificar oportunidades de melhoria nos serviços.
 
 ## Objetivos
 
